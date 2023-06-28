@@ -1,0 +1,15 @@
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\HT4.csproj.AssemblyReference.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\HT4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\HT4.AssemblyInfoInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\HT4.AssemblyInfo.cs
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\HT4.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\bin\Debug\net6.0\HT4.exe
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\bin\Debug\net6.0\HT4.deps.json
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\bin\Debug\net6.0\HT4.runtimeconfig.json
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\bin\Debug\net6.0\HT4.dll
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\bin\Debug\net6.0\HT4.pdb
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\HT4.dll
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\refint\HT4.dll
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\HT4.pdb
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\HT4.genruntimeconfig.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT4\obj\Debug\net6.0\ref\HT4.dll

@@ -1,0 +1,5 @@
+C:\GeekBrains\Языки програмирования\obj\Debug\net6.0\Языки програмирования.csproj.AssemblyReference.cache
+C:\GeekBrains\Языки програмирования\obj\Debug\net6.0\Языки програмирования.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Языки програмирования\obj\Debug\net6.0\Языки програмирования.AssemblyInfoInputs.cache
+C:\GeekBrains\Языки програмирования\obj\Debug\net6.0\Языки програмирования.AssemblyInfo.cs
+C:\GeekBrains\Языки програмирования\obj\Debug\net6.0\Языки програмирования.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\bin\Debug\net6.0\HT3.exe
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\bin\Debug\net6.0\HT3.deps.json
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\bin\Debug\net6.0\HT3.runtimeconfig.json
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\bin\Debug\net6.0\HT3.dll
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\bin\Debug\net6.0\HT3.pdb
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\HT3.csproj.AssemblyReference.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\HT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\HT3.AssemblyInfoInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\HT3.AssemblyInfo.cs
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\HT3.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\HT3.dll
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\refint\HT3.dll
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\HT3.pdb
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\HT3.genruntimeconfig.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT3\obj\Debug\net6.0\ref\HT3.dll

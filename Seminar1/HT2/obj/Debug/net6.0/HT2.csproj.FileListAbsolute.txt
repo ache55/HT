@@ -1,0 +1,15 @@
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\bin\Debug\net6.0\HT2.exe
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\bin\Debug\net6.0\HT2.deps.json
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\bin\Debug\net6.0\HT2.runtimeconfig.json
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\bin\Debug\net6.0\HT2.dll
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\bin\Debug\net6.0\HT2.pdb
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\HT2.csproj.AssemblyReference.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\HT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\HT2.AssemblyInfoInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\HT2.AssemblyInfo.cs
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\HT2.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\HT2.dll
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\refint\HT2.dll
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\HT2.pdb
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\HT2.genruntimeconfig.cache
+C:\GeekBrains\Языки програмирования\Seminar1\HT2\obj\Debug\net6.0\ref\HT2.dll

@@ -1,0 +1,15 @@
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\Seminare4Task1.csproj.AssemblyReference.cache
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\Seminare4Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\Seminare4Task1.AssemblyInfoInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\Seminare4Task1.AssemblyInfo.cs
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\Seminare4Task1.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\bin\Debug\net6.0\Seminare4Task1.exe
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\bin\Debug\net6.0\Seminare4Task1.deps.json
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\bin\Debug\net6.0\Seminare4Task1.runtimeconfig.json
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\bin\Debug\net6.0\Seminare4Task1.dll
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\bin\Debug\net6.0\Seminare4Task1.pdb
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\Seminare4Task1.dll
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\refint\Seminare4Task1.dll
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\Seminare4Task1.pdb
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\Seminare4Task1.genruntimeconfig.cache
+C:\GeekBrains\Языки програмирования\Seminar4\Seminare4Task1\obj\Debug\net6.0\ref\Seminare4Task1.dll

@@ -1,0 +1,15 @@
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\Seminar5Task3.csproj.AssemblyReference.cache
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\Seminar5Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\Seminar5Task3.AssemblyInfoInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\Seminar5Task3.AssemblyInfo.cs
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\Seminar5Task3.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\bin\Debug\net6.0\Seminar5Task3.exe
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\bin\Debug\net6.0\Seminar5Task3.deps.json
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\bin\Debug\net6.0\Seminar5Task3.runtimeconfig.json
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\bin\Debug\net6.0\Seminar5Task3.dll
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\bin\Debug\net6.0\Seminar5Task3.pdb
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\Seminar5Task3.dll
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\refint\Seminar5Task3.dll
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\Seminar5Task3.pdb
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\Seminar5Task3.genruntimeconfig.cache
+C:\GeekBrains\Языки програмирования\Seminar5\Seminar5Task3\obj\Debug\net6.0\ref\Seminar5Task3.dll

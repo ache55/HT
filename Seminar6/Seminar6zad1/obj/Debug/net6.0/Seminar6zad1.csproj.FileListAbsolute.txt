@@ -1,0 +1,5 @@
+C:\GeekBrains\Языки програмирования\Seminar6\Seminar6zad1\obj\Debug\net6.0\Seminar6zad1.csproj.AssemblyReference.cache
+C:\GeekBrains\Языки програмирования\Seminar6\Seminar6zad1\obj\Debug\net6.0\Seminar6zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Языки програмирования\Seminar6\Seminar6zad1\obj\Debug\net6.0\Seminar6zad1.AssemblyInfoInputs.cache
+C:\GeekBrains\Языки програмирования\Seminar6\Seminar6zad1\obj\Debug\net6.0\Seminar6zad1.AssemblyInfo.cs
+C:\GeekBrains\Языки програмирования\Seminar6\Seminar6zad1\obj\Debug\net6.0\Seminar6zad1.csproj.CoreCompileInputs.cache
